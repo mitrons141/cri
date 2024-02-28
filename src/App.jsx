@@ -130,14 +130,14 @@ function App() {
                 www.facebook.com/cripumps
               </a>
             </li>
-            <li className="flex flex-row pt-1 gap-2 p-2">
+            <li className="flex flex-row gap-2 p-2">
               <img
                 src="/net.png"
                 className="h-8 w-8 bg-white border rounded-full"
               />
               <a
                 href="https://www.crigroups.com/" target="_blank"
-                class="hover:underline me-4 md:me-6"
+                class="hover:underline pt-1 me-4 md:me-6"
               >
                 www.crigroups.com
               </a>
